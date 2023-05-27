@@ -1,0 +1,8 @@
+C:\Users\jurgi\OneDrive\Uni\6sem\Programmēšanas tehnoloģijas\delegāti\1uzd\1uzd\bin\Debug\1uzd.exe.config
+C:\Users\jurgi\OneDrive\Uni\6sem\Programmēšanas tehnoloģijas\delegāti\1uzd\1uzd\bin\Debug\1uzd.exe
+C:\Users\jurgi\OneDrive\Uni\6sem\Programmēšanas tehnoloģijas\delegāti\1uzd\1uzd\bin\Debug\1uzd.pdb
+C:\Users\jurgi\OneDrive\Uni\6sem\Programmēšanas tehnoloģijas\delegāti\1uzd\1uzd\obj\Debug\1uzd.csproj.AssemblyReference.cache
+C:\Users\jurgi\OneDrive\Uni\6sem\Programmēšanas tehnoloģijas\delegāti\1uzd\1uzd\obj\Debug\1uzd.csproj.SuggestedBindingRedirects.cache
+C:\Users\jurgi\OneDrive\Uni\6sem\Programmēšanas tehnoloģijas\delegāti\1uzd\1uzd\obj\Debug\1uzd.csproj.CoreCompileInputs.cache
+C:\Users\jurgi\OneDrive\Uni\6sem\Programmēšanas tehnoloģijas\delegāti\1uzd\1uzd\obj\Debug\1uzd.exe
+C:\Users\jurgi\OneDrive\Uni\6sem\Programmēšanas tehnoloģijas\delegāti\1uzd\1uzd\obj\Debug\1uzd.pdb
