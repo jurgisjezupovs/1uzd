@@ -29,6 +29,7 @@ namespace _1uzd
         }
         static void Main(string[] args)
         {
+            System.Console.WriteLine("woo, I'm on github!");
             Matematika del = null;
             bool finished = false;
             while (!finished)
