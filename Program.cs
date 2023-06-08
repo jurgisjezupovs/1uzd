@@ -31,6 +31,7 @@ namespace _1uzd
         {
             System.Console.WriteLine("woo, I'm on github!");
             System.Console.WriteLine("testing Jenkins!")
+            why no work
             Matematika del = null;
             bool finished = false;
             while (!finished)
