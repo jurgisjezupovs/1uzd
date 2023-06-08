@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
-using System.Tasks;
+// using System.Tasks;
 
 namespace _1uzd
 {
@@ -30,6 +30,7 @@ namespace _1uzd
         static void Main(string[] args)
         {
             System.Console.WriteLine("woo, I'm on github!");
+            System.Console.WriteLine("testing Jenkins!")
             Matematika del = null;
             bool finished = false;
             while (!finished)
